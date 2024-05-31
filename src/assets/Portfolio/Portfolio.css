@@ -1,0 +1,13 @@
+main{
+    text-align: center;
+}
+
+intem-portfolio{
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #8697A6;
+}
+#foto{
+    width: 50px;
+    border-radius: 80px;
+}
